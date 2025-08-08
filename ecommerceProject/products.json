@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Bluetooth Headphones",
+        "price": 59.99,
+        "category": "Electronics",
+        "description": "Wireless headphones with noise cancellation.",
+        "rating": 4.2,
+        "image": "sam-grozyan-uNC9-RgzjTA-unsplash.jpg"
+    },
+    {
+        "name": "Wireless Mouse",
+        "price": 29.99,
+        "category": "Electronics",
+        "description": "Ergonomic wireless mouse with adjustable DPI.",
+        "rating": 4.4,
+        "image": "howard-bouchevereau-fTcVganjDwU-unsplash.jpg"
+    },
+    {
+        "name": "Yoga Mat",
+        "price": 25.99,
+        "category": "Fitness",
+        "description": "Eco-friendly yoga mat with extra cushioning.",
+        "rating": 4.0,
+        "image": "ginny-rose-stewart-UxkcSzRWM2s-unsplash.jpg"
+    },
+    {
+        "name": "Water Bottle",
+        "price": 15.00,
+        "category": "Fitness",
+        "description": "Insulated stainless steel water bottle.",
+        "rating": 4.3,
+        "image": "joan-tran-reEySFadyJQ-unsplash.jpg"
+    },
+    {
+        "name": "Sports T-shirt",
+        "price": 19.99,
+        "category": "Apparel",
+        "description": "Breathable sports t-shirt for workouts.",
+        "rating": 4.1,
+        "image": "frame-kings-4pCsgbtDhoI-unsplash.jpg"
+    },
+    {
+        "name": "Backpack",
+        "price": 45.00,
+        "category": "Accessories",
+        "description": "Durable backpack for everyday use.",
+        "rating": 4.2,
+        "image": "sun-lingyan-_H0fjILH5Vw-unsplash.jpg"
+    },
+    {
+        "name": "Running Shoes",
+        "price": 89.99,
+        "category": "Footwear",
+        "description": "Lightweight running shoes for daily jogs.",
+        "rating": 4.5,
+        "image": "jakob-owens-A4579vLezz8-unsplash.jpg"
+    },
+    {
+        "name": "Smartwatch",
+        "price": 149.99,
+        "category": "Electronics",
+        "description": "Fitness tracking smartwatch with GPS.",
+        "rating": 4.6,
+        "image": "lloyd-dirks-0vsk2_9dkqo-unsplash.jpg"
+    }
+]
